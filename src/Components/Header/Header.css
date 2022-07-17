@@ -1,0 +1,13 @@
+
+.header{
+    @apply w-[83%] ml-[17%]
+    py-3 px-7 bg-white
+    sticky top-0 shadow 
+    flex items-center justify-between
+    z-20
+}
+
+.icons{
+    @apply text-2xl bg-slate-100
+    ml-3 p-3 rounded-full cursor-pointer
+}

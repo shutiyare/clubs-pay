@@ -1,0 +1,15 @@
+
+.Side-Container{
+    @apply w-[17%] h-[100vh] 
+    text-center text-white
+    text-2xl absolute top-0
+    overflow-hidden
+    bg-blue-500 py-2
+}
+
+.sideHead{
+    @apply w-[100%] h-fit px-3 
+    flex justify-between items-center
+    border-b pb-2 border-slate-200/30
+    shadow
+}

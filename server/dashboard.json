@@ -1,0 +1,263 @@
+{
+  "summery": {
+    "events": 12,
+    "clubs": 21,
+    "students": 123,
+    "totalPayment": 1000
+  },
+  "clubsRegistrationPerYear": [
+    {
+      "name": "2022",
+      "data": [
+        0,
+        3,
+        10,
+        4,
+        11,
+        5,
+        9,
+        2,
+        11,
+        3,
+        2,
+        12
+      ]
+    },
+    {
+      "name": "2021",
+      "data": [
+        0,
+        8,
+        4,
+        12,
+        2,
+        9,
+        7,
+        3,
+        10,
+        4,
+        1,
+        10
+      ]
+    },
+    {
+      "name": "2020",
+      "data": [
+        0,
+        4,
+        9,
+        1,
+        9,
+        3,
+        11,
+        2,
+        12,
+        6,
+        3,
+        11
+      ]
+    },
+    {
+      "name": "2019",
+      "data": [
+        0,
+        6,
+        8,
+        2,
+        12,
+        2,
+        8,
+        10,
+        1,
+        7,
+        4,
+        9
+      ]
+    }
+  ],
+  "clubRegistaring": [
+    {
+      "title": "Football",
+      "totalStudents": 15
+    },
+    {
+      "title": "Basketball",
+      "totalStudents": 11
+    },
+    {
+      "title": "Runing race",
+      "totalStudents": 9
+    },
+    {
+      "title": "Tennis",
+      "totalStudents": 7
+    },
+    {
+      "title": "Bike ride",
+      "totalStudents": 6
+    },
+    {
+      "title": "Ninja",
+      "totalStudents": 5
+    },
+    {
+      "title": "Golf",
+      "totalStudents": 4
+    },
+    {
+      "title": "Cricket",
+      "totalStudents": 3
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Football",
+      "description": "Welcome to Football Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate? Welcome to Football Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate?",
+      "mediaUrl": "./img/Sports_Img/Football.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "2",
+      "title": "Basketball",
+      "description": "Welcome to Basketball Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate?",
+      "mediaUrl": "./img/Sports_Img/basketball.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "3",
+      "title": "Tennis",
+      "description": "Welcome to Tennis Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate?",
+      "mediaUrl": "./img/Sports_Img/Tennis.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "4",
+      "title": "Runing race",
+      "description": "Welcome to Running rice Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate?",
+      "mediaUrl": "./img/Sports_Img/Run.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "5",
+      "title": "Bike ride",
+      "description": "Welcome to Bike ride Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate?",
+      "mediaUrl": "./img/Sports_Img/Bike.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "title": "Golf",
+      "description": "Welcome to Golf Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate?",
+      "mediaUrl": "./img/Sports_Img/Golf.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "7",
+      "title": "Cricked",
+      "description": "Welcome to Cricked Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate?",
+      "mediaUrl": "./img/Sports_Img/Cricked.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "8",
+      "title": "Ninja",
+      "description": "Welcome to Ninja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit possimus officia, repellendus perferendis, odio voluptatum dolor nesciunt porro fuga alias quia dolores reiciendis deserunt temporibus voluptates dolorem, consectetur ea voluptate?",
+      "mediaUrl": "./img/Sports_Img/Ninja.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "title": "Radio",
+      "description": "<p>maahgvchfecfej</p>\n",
+      "mediaUrl": "./img/Sports_Img/football.jpeg",
+      "id": "4EcpHog"
+    },
+    {
+      "title": "hxewhgcjwe",
+      "description": "<p>sgcewjgcjwsgxcejw</p>\n",
+      "mediaUrl": "./img/Sports_Img/Ninja.svg",
+      "id": "WeVOA5m"
+    }
+  ],
+  "clubs": [
+    {
+      "id": "1",
+      "title": "Sports",
+      "mediaUrl": "./img/Sports_Img/Sports.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "2",
+      "title": "Basketball",
+      "mediaUrl": "./img/Sports_Img/basketball.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "3",
+      "title": "Bike ride",
+      "mediaUrl": "./img/Sports_Img/bike.jpeg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "4",
+      "title": "Running race",
+      "mediaUrl": "./img/Sports_Img/Run.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "4",
+      "title": "Tennis",
+      "mediaUrl": "./img/Sports_Img/Tennis.svg",
+      "mediaType": "IMAGE"
+    },
+    {
+      "id": "6",
+      "title": "Ninja",
+      "mediaUrl": "./img/Sports_Img/Ninja.svg",
+      "mediaType": "IMAGE"
+    }
+  ],
+  "clubLists": [
+    {
+      "id": "1",
+      "title": "Football",
+      "members": "10 clubs",
+      "totalPayment": "1000",
+      "DateCreated": "26/6/2002"
+    },
+    {
+      "id": "2",
+      "title": "Basket ball",
+      "members": "4 clubs",
+      "totalPayment": "800",
+      "DateCreated": "26/6/2002"
+    },
+    {
+      "id": "3",
+      "title": "Tennis",
+      "members": "6 clubs",
+      "totalPayment": "600",
+      "DateCreated": "26/6/2002"
+    },
+    {
+      "id": "4",
+      "title": "Golf",
+      "members": "2 clubs",
+      "totalPayment": "1200",
+      "DateCreated": "26/6/2002"
+    },
+    {
+      "id": "5",
+      "title": "Running race",
+      "members": "3 clubs",
+      "totalPayment": "300",
+      "DateCreated": "26/6/2002"
+    },
+    {
+      "title": "dwd",
+      "members": "dwqjhfqw",
+      "totalPayments": "dwqhfuwq",
+      "dateCreated": "2022-05-24",
+      "id": "97e0aNx"
+    }
+  ]
+}
